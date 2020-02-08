@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanyeBot", "KanyeBot\KanyeBot.csproj", "{DB435AFB-5C58-4C32-98A3-30BD6C368AF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB435AFB-5C58-4C32-98A3-30BD6C368AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB435AFB-5C58-4C32-98A3-30BD6C368AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB435AFB-5C58-4C32-98A3-30BD6C368AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB435AFB-5C58-4C32-98A3-30BD6C368AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5BB0396-8E76-40B3-ADFA-B5D42CAF265F}
+	EndGlobalSection
+EndGlobal
