@@ -23,7 +23,7 @@ namespace KanyeBot
 			_client.Log += Log;
 			_client.MessageReceived += MessageReceived;
 
-			await _client.LoginAsync(TokenType.Bot, "Njc1NjE5ODg5NTg2ODk2OTA1.Xj5yyA.ZeP_4MhWVUF7bkY-k7rmlu3BwNk"); //Environment.GetEnvironmentVariable("DiscordToken")
+			await _client.LoginAsync(TokenType.Bot, Environment.GetEnvironmentVariable("DiscordToken"));
 			await _client.StartAsync();
 
 			// Block this task until the program is closed.
